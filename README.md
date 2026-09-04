@@ -55,5 +55,3 @@ echo "Primeira frase. Segunda frase. Terceira frase. Quarta frase." | python mai
 ```
 
 O resultado é o texto limitado às 3 primeiras frases.
-# resumidor
-# produto-01-resumidor
